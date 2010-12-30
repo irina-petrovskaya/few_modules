@@ -5,7 +5,7 @@
 package a.b.c;
 
 /**
- * by Irina.Petrovskaya, on 30.12.10, 17:22
+ * by Irina.Petrovskaya, on 30.12.10, 17:23
  */
 public class CCC {
 }
