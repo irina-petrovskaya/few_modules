@@ -9,4 +9,5 @@ package a.b.c;
  * branch1
  */
 public class AAA {
+    private CCC ccc;
 }
