@@ -1,2 +1,2 @@
-line0
-line1 - branch, head
+line0 - master
+line1 - branch, master
