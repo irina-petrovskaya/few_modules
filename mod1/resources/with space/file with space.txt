@@ -1,2 +1,3 @@
 first line
 new line master
+second line
