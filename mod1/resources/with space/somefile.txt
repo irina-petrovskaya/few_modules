@@ -1,2 +1,2 @@
 line0
-line1 in head
+line1 - branch, head
