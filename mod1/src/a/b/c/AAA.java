@@ -10,4 +10,5 @@ package a.b.c;
  */
 public class AAA {
     private CCC ccc;
+    private String str;
 }
