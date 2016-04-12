@@ -11,4 +11,12 @@ package a.b.c;
 public class BBB {
 
     BBB a;
+
+    public BBB getA() {
+        return a;
+    }
+
+    public void setA(BBB aArg) {
+        a = aArg;
+    }
 }

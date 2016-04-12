@@ -13,5 +13,27 @@ public class AAA {
     private String str;
     private int iii;
 
+    public CCC getCcc() {
+        return ccc;
+    }
 
+    public void setCcc(CCC cccArg) {
+        ccc = cccArg;
+    }
+
+    public String getStr() {
+        return str;
+    }
+
+    public void setStr(String strArg) {
+        str = strArg;
+    }
+
+    public int getIii() {
+        return iii;
+    }
+
+    public void setIii(int iiiArg) {
+        iii = iiiArg;
+    }
 }
