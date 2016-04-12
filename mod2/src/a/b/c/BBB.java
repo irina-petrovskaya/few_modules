@@ -10,5 +10,5 @@ package a.b.c;
  */
 public class BBB {
 
-    BBB a;
+    BBB myBBBProperty; //
 }
