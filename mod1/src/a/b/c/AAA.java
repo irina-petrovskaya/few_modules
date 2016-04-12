@@ -9,16 +9,16 @@ package a.b.c;
  * branch1
  */
 public class AAA {
-    private CCC ccc;
+    private CCC myCcc;
     private String str;
     private int iii;
 
     public CCC getCcc() {
-        return ccc;
+        return myCcc;
     }
 
     public void setCcc(CCC cccArg) {
-        ccc = cccArg;
+        myCcc = cccArg;
     }
 
     public String getStr() {
