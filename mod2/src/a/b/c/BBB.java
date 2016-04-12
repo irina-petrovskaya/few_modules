@@ -10,7 +10,7 @@ package a.b.c;
  */
 public class BBB {
 
-    BBB a;
+    private BBB a;
 
     public BBB getA() {
         return a;
