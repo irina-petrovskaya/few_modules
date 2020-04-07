@@ -9,5 +9,10 @@ package a.b.c;
  * branch1
  */
 public class AAA {
-    private CCC ccc;
+
+    private CCC ccc; // ccc
+    private String str; //
+    private int iii; //
+
+
 }

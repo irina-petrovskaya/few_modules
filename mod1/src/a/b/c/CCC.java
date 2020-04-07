@@ -9,4 +9,6 @@ package a.b.c;
  * branch1
  */
 public class CCC {
+    AAA s;
+    String fff;  // ffffffff
 }
